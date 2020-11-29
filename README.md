@@ -7,7 +7,8 @@ This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.
 |Iteration|Model Codename|Strategy| 
 | :---: |:---:|:-----|
 |1|["Model-v1"](./iterations/Model-v1.md)|Iteration 1 - Accepting Default Parameters|
-|2|["Model-v2"](./iterations/v2-RacingLine.md)|Iteration 2 - Mixing It Up|
+|2|["Model-v2"](./iterations/Model-v2.md)|Iteration 2 - Mixing It Up|
+|3|["Model-v3"](./iterations/Model-v3.md)|Iteration 3 - Trial & Error|
 
 ## Hyperparameter Optimizaiton
 Below is a description for each Hyperparameter that can be tuned in the DeepRacer Console:
