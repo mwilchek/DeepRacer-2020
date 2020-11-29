@@ -7,11 +7,7 @@ This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.
 |Iteration|Model Codename|Strategy| 
 | :---: |:---:|:-----|
 |1|["Model-v1"](./iterations/Model-v1.md)|Iteration 1 - Accepting Default Parameters|
-|2|["RacingLine"](./iterations/v2-RacingLine.md)|Use waypoints and lane preference to encourage a racing line|
-|3|["GetFast"](./iterations/v3-GetFast.md)|Add an exponential speed component|
-|4|["SelfMotivator"](./iterations/v4-SelfMotivator.md)|Simply encourage getting around the track in as few steps as possible|
-|5|["Minimalist"](./iterations/v5-Minimalist.md)|How minimal can we go?|
-|6|["re:Invent or Bust!"](./iterations/v6-reInventorBust.md)|Can I create a universal model?|
+|2|["Model-v2"](./iterations/v2-RacingLine.md)|Iteration 2 - Mixing It Up|
 
 ## Hyperparameter Optimizaiton
 todo
