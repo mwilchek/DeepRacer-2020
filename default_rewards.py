@@ -1,9 +1,3 @@
-# resources:
-# https://medium.com/axel-springer-tech/how-to-win-aws-deepracer-ce15454f594a
-# https://github.com/scottpletcher/deepracer/blob/master/iterations/v6-reInventorBust.md
-# Hyper-parameters explained:
-# https://www.youtube.com/watch?v=Y3aV4T20j00
-
 def reward_function(params):
     """
     Example of rewarding the agent to follow center line
