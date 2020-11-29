@@ -1,4 +1,4 @@
-# AWS DeepRacer Experimentation
+# AWS DeepRacer for re:Invent 2020
 
 This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.com/deepracer/) training.  My best iteration was submitted for the AWS 2020 re:Invent DeepRacer Competition. All of the work was also submitted as a final project for a graduate Cloud Computing course for the M.S. Data Science program at George Washington University.
 
@@ -6,7 +6,7 @@ This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.
 
 |Iteration|Model Codename|Strategy| 
 | :---: |:---:|:-----|
-|1|["PurePursuit"](./iterations/v1-PurePursuit.md)|A Pure Pursuit algorithm inspired approach|
+|1|["Model-v1"](./iterations/Model-v1.md)|Iteration 1 - Accepting Default Parameters|
 |2|["RacingLine"](./iterations/v2-RacingLine.md)|Use waypoints and lane preference to encourage a racing line|
 |3|["GetFast"](./iterations/v3-GetFast.md)|Add an exponential speed component|
 |4|["SelfMotivator"](./iterations/v4-SelfMotivator.md)|Simply encourage getting around the track in as few steps as possible|
